@@ -1,0 +1,51 @@
+.footer h5{
+font-size: 1.1rem;
+color: #fff;
+}
+footer{
+    padding-bottom: 30px;
+}
+.list-item{
+    background: transparent !important;
+    padding-left: 0 !important;
+    border: none !important;
+}
+.list-item a{
+    text-decoration: none;
+    color: #fff;
+    opacity: 85%;
+    font-size: 0.9rem;
+}
+.list-item a :hover{
+    opacity: 85%;
+    color: #fff;
+}
+.newsletter{
+    width: 100%;
+    border-radius: 50px;
+    color: #fff;
+    padding: 8px 25px;
+    border: none;
+    outline: none;
+    font-size: 0.8rem;
+    background-color: #343444;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+::placeholder{
+    color: #fff;
+    opacity: 85%;
+}
+.social-links span a{
+    text-decoration: none;
+    color: violet;
+    opacity: 85%;
+    font-weight: 400;
+    transition: 0.3s;
+}
+.social-links span a:hover{
+        color: violet;
+    }
+.copyright{
+    font-size: 0.8rem;
+}
